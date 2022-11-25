@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-size: 35px;
+    text-shadow: 1px 1px 1px black;
+
+}
+body{
+    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+section{
+    width: 80%;
+    height: 100vh;
+    background-color: #264653;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 4rem black;
+}
+section article{
+    width: 70%;
+    height: 190px;
+    background-color: #2a9d8f;
+    margin: 10px;
+    color:#FFF;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.Ctdlg{
+    background-color: #264653;
+    margin: 12px;
+    width: 30%;
+    height: 80%;
+    box-shadow: 1px 1px 4rem black;
+}

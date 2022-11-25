@@ -1,0 +1,167 @@
+/*Importación del tipo de letra Roboto de Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/*todos los elementos dentro del body heredan el tipo y tamaño de letra*/
+body{
+font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+font-size: 14px;
+}
+.menu{
+  width: 1000px;
+  margin: auto;
+}
+.enlace-blue{
+text-decoration:none;
+color: #264653;
+margin: 8px;
+}
+.espacio{
+padding-top: 24px;
+padding-bottom: 24px;
+}
+.container{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+}
+h1{
+  font-size: 30px;
+  text-align:center;
+}
+
+.imagen1{
+width:  50%;              
+height: 150px;              
+background-color: #e9c46a; 
+color: #fff;
+float:left;
+}
+.imagen2{
+  width:  50%;              
+  height: 150px;              
+  background-color: #2a9d8f; 
+  color: #fff;
+  float:left;
+  }
+.parrafo{
+  width:  100%;              
+  height: 200px;              
+  background-color: #264653; 
+  color: #fff;
+  clear:both;
+  float:left;
+}
+
+.sidebar{
+  width:  30%;              
+  height: 150px;              
+  background-color: #e76f51; 
+  color: #fff;
+  clear: both;
+  float:left;
+  }
+.articulo{
+  width:  70%;              
+  height: 150px;              
+  background-color: #e9c46a; 
+  color: #fff;
+  float:left;
+  }
+.footer{
+  width:  100%;              
+  height:100px;              
+  background-color: #f4a261; 
+  color: #fff;
+  clear:both;
+  float:left;
+}
+.imagen3{
+    width:  50%;              
+    height: 150px;              
+    background-color: #264653; 
+    color: #fff;
+    float:left;
+    }
+    .imagen4{
+      width:  50%;              
+      height: 150px;              
+      background-color: #2a9d8f; 
+      color: #fff;
+      float:left;
+      }
+    .parrafo2{
+      width:  100%;               
+      height: 200px;              
+      background-color: #e76f51; 
+      color: #fff;
+      clear:both;
+      float:left;
+    }
+    
+    .sidebar2{
+      width:  30%;               
+      height: 150px;              
+      background-color: #f4a261; 
+      color: #fff;
+      clear: both;
+      float:left;
+      }
+    .articulo2{
+      width:  70%;               
+      height: 150px;              
+      background-color: #2a9d8f; 
+      color: #fff;
+      float:left;
+      }
+    .footer2{
+      width:  100%;               
+      height:100px;              
+      background-color: #e9c46a; 
+      color: #fff;
+      clear:both;
+      float:left;
+    }
+    .imagen5{
+        width:  50%;               
+        height: 150px;              
+        background-color: #264653; 
+        color: #fff;
+        float:left;
+        }
+        .imagen6{
+          width:  50%;               
+          height: 150px;              
+          background-color: #e76f51;
+          color: #fff;
+          float:left;
+          }
+        .parrafo3{
+          width:  100%;               
+          height: 200px;              
+          background-color: #f4a261; 
+          color: #fff;
+          clear:both;
+          float:left;
+        }
+        .sidebar3{
+          width:  30%;              
+          height: 150px;              
+          background-color: #e9c46a; 
+          color: #fff;
+          clear: both;
+          float:left;
+          }
+        .articulo3{
+          width:  70%;              
+          height: 150px;              
+          background-color: #2a9d8f; 
+          color: #fff;
+          float:left;
+          }
+        .footer3{
+          width:  100%;              
+          height:100px;              
+          background-color: #264653; 
+          color: #fff;
+          clear:both;
+          float:left;
+        }

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: 'Combo', cursive;
+    text-align: center;
+    background-color: #ffffff;
+}
+body header{
+    background-color: #cf2b2b;
+    padding: 60px;
+    border-radius: 100px;
+    font-size: 25px;
+    border: solid #000000;
+    margin-left: 15px;
+    box-shadow: 0 0 6px #15ffeb;
+    margin-right: 15px;
+}
+body header h1{
+    text-shadow: 0 0 6px #15ffeb;
+}
+a{
+    text-decoration: none;
+}
+.contenedor{
+    color: #daff07;
+    text-shadow: 0 0 6px #000000;
+}
+.contenedor2{
+    color: #ff07c9;
+    text-shadow: 0 0 6px #000000;
+}
+.contenedor3{
+    color: #0717ff;
+    text-shadow: 0 0 6px #000000;
+}
+.contenedor4{
+    color: #07ffea;
+    text-shadow: 0 0 6px #000000;
+}
+img{
+    height: 150px;
+}
+body header nav{
+    background-color: #d6372c;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top: 10px;
+    border: 2px solid #000000;
+    box-shadow: 0 0 6px #fbff15;
+}
+.js{
+    padding: 12px;
+    background-color: #cf2b2b;
+    margin-top: 10px;
+    border: 2px solid #000000;
+    border-radius: 19px;
+    margin-left: 15px;
+    box-shadow: 0 0 6px #ff15b9;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}

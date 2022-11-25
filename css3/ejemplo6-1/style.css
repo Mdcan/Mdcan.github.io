@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Roboto&family=Tiro+Devanagari+Hindi&family=Ubuntu:wght@300&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 19px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.caja_static { 
+    background-color: #264653;
+    color: #fff;
+    width: 256px; 
+    height: 128px; 
+  
+    position:static;
+    left: 48px;
+}
+.caja_relative{
+    background-color: #2a9d8f;
+    color: #fff;
+    width: 256px; 
+    height: 128px; 
+  
+    position:relative;
+    left: 48px;
+    top: 48px;
+}
+.padre_relative{
+    background-color: #e9c46a;
+    color: #fff;
+    width: autopx;
+    height: 128px; 
+    position:relative; 
+    left: 48px; 
+    top: 48px; 
+}
+.hijo_absolute1{
+    background-color: #f4a261;
+    color: #fff;
+    padding: 12px;
+    position:absolute;
+    left: 80px;
+}
+.hijo_absolute2{
+    background-color: #e76f51;
+    color: #fff;
+    padding: 12px;
+    position:absolute;
+    left: 16px;
+}
+.padre_relative1 { 
+    background-color: #264653;
+    color: #fff;
+    width: autopx; 
+    height: 128px;
+    position:relative; 
+    left: 48px; 
+    top: 48px;
+}
+.hijo_fixed { 
+    background-color: #2a9d8f;
+    color: #fff;
+    padding: 12px;
+    position:fixed;
+    left: 80px;
+}
+.hijo_absolute { 
+    background-color: #e9c46a;
+    color: #fff;
+    padding: 12px;
+    position:absolute;
+}
+h1{
+    background-color: #f4a261;
+
+}
+a{
+    background-color: #e76f51;
+    color: black;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 4px;
+    box-sizing: #ffffff;
+}
+

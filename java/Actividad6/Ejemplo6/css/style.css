@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    background-size:cover;
+    color: black;
+}
+h1{
+    text-align: center;
+    padding: 12px;
+    background-color: #63b2f7;
+    color: #ffffff;
+    border-radius: 7px;
+    border-top: 5px solid  #0289ff;
+    border-bottom: 5px solid #228deb;
+    border-left: 5px #095292;
+    border-right: 5px #00549e;
+    text-shadow: 3px 3px 3px#000000;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    text-shadow: 3px 3px 3px#00a2ff3b;
+    
+}
+img{
+    display: block;
+    margin: auto;
+    float: left;
+    width: 25%;
+   
+}
+div{
+    float: left;
+    width: 50%;
+}
+h3{
+    border-right: 6px;
+    padding: 6px;
+    background-color: #63b2f7;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 7px;
+    border-top: 5px solid  #0289ff;
+    border-bottom: 5px solid #228deb;
+    border-left: 5px #095292;
+    border-right: 5px #00549e;
+    text-shadow: 3px 3px 3px#000000;
+    
+}
+h2{
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+
+
